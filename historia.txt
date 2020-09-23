@@ -1,3 +1,5 @@
 Prueba de git para comenzar a usarlo
 
+Antonion: Estoy colaborando a elaborar la historia de este blog
+
 Borre lo que tenia para probar lo del curso
